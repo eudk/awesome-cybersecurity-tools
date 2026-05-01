@@ -269,6 +269,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) [F] — Mobile static/dynamic analysis.
 - [Frida](https://frida.re) [F] — Dynamic instrumentation.
 - [Objection](https://github.com/sensepost/objection) [F] — Runtime mobile exploration (Frida-based).
+- [Mira](https://github.com/vwww-droid/Mira) [F] — Runtime protection analysis platform for third-party Android and iOS apps, enabling AI to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 - [jadx](https://github.com/skylot/jadx) [F] — Android decompiler.
 - [apktool](https://ibotpeaches.github.io/Apktool/) [F] — APK decode/rebuild.
 - [drozer](https://github.com/WithSecureLabs/drozer) [F] — Android security assessment (older but useful).
