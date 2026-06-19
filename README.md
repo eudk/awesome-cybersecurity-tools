@@ -331,7 +331,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [Photon](https://github.com/s0md3v/Photon) [F] — Fast crawler for intel.
 - [MISP](https://www.misp-project.org) [F] — Threat intel platform for IOCs.
 - [OpenCTI](https://www.opencti.io) [F] — Threat intel knowledge base.
-- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) [F] — Search public GitHub proof-of-concept repositories by CVE identifier.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) [F] — Instantly find public GitHub proof-of-concept exploit code for any CVE.
 
 [Back to Top](#navigation)
 
