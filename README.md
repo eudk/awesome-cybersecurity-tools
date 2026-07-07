@@ -126,6 +126,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [Arjun](https://github.com/s0md3v/Arjun) [F] — Hidden parameter discovery.
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider) [F] — Parameter harvesting from URLs.
 - [dalfox](https://github.com/hahwul/dalfox) [F] — XSS scanning with smart injection points.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) [F] — Autonomous AI pentest platform with per-tech offensive agents; produces proof-based web findings (SQLi, XSS, SSRF, IDOR).
 - [XSStrike](https://github.com/s0md3v/XSStrike) [F] — XSS detection and exploitation.
 - [tplmap](https://github.com/epinna/tplmap) [F] — Server-Side Template Injection checks.
 - [Nikto](https://github.com/sullo/nikto) [F] — Legacy but still useful web scanner.
