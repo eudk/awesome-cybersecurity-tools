@@ -129,6 +129,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [XSStrike](https://github.com/s0md3v/XSStrike) [F] — XSS detection and exploitation.
 - [tplmap](https://github.com/epinna/tplmap) [F] — Server-Side Template Injection checks.
 - [Nikto](https://github.com/sullo/nikto) [F] — Legacy but still useful web scanner.
+- [QAPractices Security Testing Guide](https://qapractices.com/documentation/security-testing-guide/) [F] — Practical guide to web application security testing with real-world examples and checklists.
 
 [Back to Top](#navigation)
 
@@ -141,6 +142,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [kiterunner](https://github.com/assetnote/kiterunner) [F] — API route discovery.
 - [grpcurl](https://github.com/fullstorydev/grpcurl) [F] — gRPC probing.
 - [mitmproxy](https://mitmproxy.org) [F] — Intercept TLS traffic; scripts for API testing.
+- [QAPractices API Security Testing](https://qapractices.com/documentation/api-security-testing/) [F] — Practical guide to testing REST and GraphQL API security with real-world examples and checklists.
 
 [Back to Top](#navigation)
 
