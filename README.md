@@ -280,6 +280,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 
 ## Reverse Engineering & Binary
 
+- [fnprint](https://github.com/1rhino2/fnprint) [F] [Linux] - Behavioral function fingerprinting; names functions in stripped ELF binaries and patch-diffs vuln vs patched builds by microexecution.
 - [Ghidra](https://ghidra-sre.org) [F] — Full suite reverse engineering.
 - [Radare2 / Cutter](https://cutter.re) [F] — Disassembler/debugger with GUI.
 - [Binary Ninja](https://binary.ninja) [C] — Fast reversing with APIs.
