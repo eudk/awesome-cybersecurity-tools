@@ -273,6 +273,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [apktool](https://ibotpeaches.github.io/Apktool/) [F] — APK decode/rebuild.
 - [drozer](https://github.com/WithSecureLabs/drozer) [F] — Android security assessment (older but useful).
 - [Xcode / Android Studio](https://developer.android.com/studio) [F] — Official toolchains and emulators.
+- [S4](https://github.com/heyaibi/s4) [F] [Android] — Offline Android app for BIP-39 → SLIP-39 paper backup — splits any BIP-39 seed phrase or raw entropy into 2-16 SLIP-39 shares (e.g., 6/any-3, 20-33 words) and restores from any T with fingerprint; 100% offline (no INTERNET permission).
 
 [Back to Top](#navigation)
 
