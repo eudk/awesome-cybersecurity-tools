@@ -273,6 +273,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [apktool](https://ibotpeaches.github.io/Apktool/) [F] — APK decode/rebuild.
 - [drozer](https://github.com/WithSecureLabs/drozer) [F] — Android security assessment (older but useful).
 - [Xcode / Android Studio](https://developer.android.com/studio) [F] — Official toolchains and emulators.
+- [Airgate](https://github.com/heyaibi/airgate) [F] [Android] — Offline Device-Owner watchdog that hardens dedicated Android devices for cold-storage — 14 wireless/USB/system-tamper signals, reactive hardening and auto factory-reset wipe; 100% offline (no INTERNET permission).
 
 [Back to Top](#navigation)
 
