@@ -418,6 +418,7 @@ Operate only in lab or with written authorization. Many tools are detected by ED
 - [jq / yq](https://stedolan.github.io/jq/) — JSON/YAML processing.
 - [httpie](https://httpie.io) — Human-friendly HTTP client.
 - [pv](https://www.ivarch.com/programs/pv.shtml) — Pipe progress meter.
+- [KeyDrift](https://keydrift.dev) — Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 [Back to Top](#navigation)
 
