@@ -329,6 +329,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) [F] — OSINT framework.
 - [GHunt](https://github.com/mxrch/GHunt) [F] — Google OSINT.
 - [Photon](https://github.com/s0md3v/Photon) [F] — Fast crawler for intel.
+- [ICHI — Internet Cyber Health Index](https://ichi.global) [F] — Free daily barometer of global internet cyber health; aggregates 40+ public threat-intel feeds with source-linked evidence. Useful for situational awareness, SOC briefings, and trending attack-type triage.
 - [MISP](https://www.misp-project.org) [F] — Threat intel platform for IOCs.
 - [OpenCTI](https://www.opencti.io) [F] — Threat intel knowledge base.
 
