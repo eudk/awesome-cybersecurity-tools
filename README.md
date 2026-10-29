@@ -77,6 +77,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [sqlmap](https://sqlmap.org) [F] [Linux macOS Windows] — Automated SQL injection/dumping.
 - [Hashcat](https://hashcat.net/hashcat) [F] [Linux macOS Windows] — GPU/CPU password cracking.
 - [John the Ripper Jumbo](https://www.openwall.com/john/) [F] [Linux macOS Windows] — Password/cracking suite.
+- [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) [C] [Windows] — C2 with an integrated kernel agent and exploit backends for kernel-level operations.
 
 [Back to Top](#navigation)
 
