@@ -331,6 +331,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [Photon](https://github.com/s0md3v/Photon) [F] — Fast crawler for intel.
 - [MISP](https://www.misp-project.org) [F] — Threat intel platform for IOCs.
 - [OpenCTI](https://www.opencti.io) [F] — Threat intel knowledge base.
+- [Whatoblock](https://whatoblock.com/) [F/C] — Honeypot-based threat intel: IPs seen scanning, botnet, proxy and Tor exit activity, with hourly blocklists.
 
 [Back to Top](#navigation)
 
