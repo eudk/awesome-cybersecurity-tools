@@ -392,6 +392,7 @@ Operate only in lab or with written authorization. Many tools are detected by ED
 - [Sigma + tools](https://github.com/SigmaHQ/sigma) [F] — Generic SIEM rules and converters.
 - [Bulk Extractor](https://github.com/simsong/bulk_extractor) [F] — Feature extraction at scale.
 - [TestDisk / PhotoRec](https://www.cgsecurity.org) [F] — Recovery of lost files/partitions.
+- [Wazuh Alert Manager](https://github.com/xrisbarney/Wazuh-alert-manager) [F] — Alert triage, cases and automation rules inside the Wazuh dashboard.
 
 [Back to Top](#navigation)
 
