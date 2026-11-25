@@ -141,6 +141,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [kiterunner](https://github.com/assetnote/kiterunner) [F] — API route discovery.
 - [grpcurl](https://github.com/fullstorydev/grpcurl) [F] — gRPC probing.
 - [mitmproxy](https://mitmproxy.org) [F] — Intercept TLS traffic; scripts for API testing.
+- [WebDecoy API Honeypots](https://webdecoy.com/product/endpoints/) [C] — Hosted HTTP decoys with a verified request-to-detection example.
 
 [Back to Top](#navigation)
 
